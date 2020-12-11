@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848249378849",
+    "project_id": "merabusiness-d8ccf",
+    "storage_bucket": "merabusiness-d8ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848249378849:android:54fa1534e346381dc42b60",
+        "android_client_info": {
+          "package_name": "com.mittaltech.merabusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848249378849-aq3grg22jq2fbdaieoen16gl23pl1km3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mittaltech.merabusiness",
+            "certificate_hash": "e67948e467195dfb39cffc3e5115d00eb3ede253"
+          }
+        },
+        {
+          "client_id": "848249378849-02lfd83t03f2olikspb89u9e3gbged8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAN4oc9VDooboy_6G3g6R9xi2pcNuDx8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848249378849-02lfd83t03f2olikspb89u9e3gbged8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
